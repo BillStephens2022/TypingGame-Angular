@@ -1,0 +1,19 @@
+
+
+p {
+  margin: 1rem;
+}
+
+.pending {
+  color: gray;
+}
+
+.correct {
+  color: green;
+  font-weight: 900;
+}
+
+.incorrect {
+  color: red;
+  font-weight: 900;
+}
