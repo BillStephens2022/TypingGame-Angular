@@ -4,8 +4,13 @@
 
   A simple game where a random lorem ipsum text sentence is generated and the user types out the text.  As each letter is typed, the letter of the sentence will appear green if typed correctly or red if incorrect. When full sentence is typed correctly, a success message is rendered.
 
-  Screenshot of app:
-  ![screenshot](/src/assets/screenshot.png)
+  Screenshots of app:
+
+  Successful attempt:
+  ![screenshot1](/src/assets/screenshot1.png)
+
+  With Typing Errors:
+  ![screenshot2](/src/assets/screenshot2.png)
   
   ## Table of Contents
   
